@@ -24,7 +24,7 @@ body {
 
 header {
     background-color: black;
-    color: #63524E;
+    color: white;
     text-align: center;
     font-weight: bold;
 }
@@ -46,7 +46,7 @@ header p {
 
 header a {
     text-decoration: none;
-    color: #393231;
+    color: white;
     font-weight: bolder;
 }
 
